@@ -22,6 +22,7 @@
 3. js数据结构 https://github.com/biaochenxuying/blog/issues/34
 4. 数据结构与算法 https://www.cnblogs.com/zaking/category/1226506.html
 5. 现代javaScript教程 https://zh.javascript.info/
+6. 波神 https://segmentfault.com/a/1190000012646488
 
 #### 面试集
 1. https://github.com/haizlin/fe-interview

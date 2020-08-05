@@ -25,7 +25,7 @@
 6. 波神 https://segmentfault.com/a/1190000012646488
 7. react-hooks https://mp.weixin.qq.com/mp/homepage?__biz=MzI4NjE3MzQzNg==&hid=2&sn=75d2d72997241a607026560263275821&scene=18#wechat_redirect
 8. react-hooks原理 https://github.com/brickspert/blog/issues/26
-9. https://github.com/brickspert
+9. 砖家 https://github.com/brickspert
 
 #### base review
 1. https://github.com/haizlin/fe-interview

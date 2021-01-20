@@ -1,4 +1,4 @@
-#### 函数式编程
+#### Functional
 
 1. 函数式编程mini书: https://jcouyang.gitbooks.io/functional-javascript/content/zh/index.html
 2. 轻量级函数式编程： https://wizardforcel.gitbooks.io/functional-light-js/
@@ -7,7 +7,7 @@
 5. reduce高级用法的总结： https://zhuanlan.zhihu.com/p/106656582
 6. reduce经典代码片段： https://www.bbsmax.com/A/6pdDlQkldw/
 
-#### 数组&对象&字符串&正则
+#### Array/Object/String/Regexp
 1. 数组api全集 http://louiszhai.github.io/2017/04/28/array/#Array%E6%9E%84%E9%80%A0%E5%99%A8
 2. 字符串api全集 http://louiszhai.github.io/2016/01/12/js.String/
 3. Array源码解析集 https://github.com/yygmind/blog/issues/46
@@ -16,7 +16,7 @@
 6. String原型api集 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/@@iterator
 7. javaScript正则大全 https://juejin.im/post/5965943ff265da6c30653879#heading-0
 
-#### 优秀博客资源
+#### Blog
 1. 讶羽 javaScript全系列 https://github.com/mqyqingfeng/Blog
 2. Berwin https://github.com/berwin/Blog
 3. js数据结构 https://github.com/biaochenxuying/blog/issues/34
@@ -26,7 +26,17 @@
 7. react-hooks https://mp.weixin.qq.com/mp/homepage?__biz=MzI4NjE3MzQzNg==&hid=2&sn=75d2d72997241a607026560263275821&scene=18#wechat_redirect
 8. react-hooks原理 https://github.com/brickspert/blog/issues/26
 9. 砖家 https://github.com/brickspert
-
+10.30-seconds https://github.com/30-seconds
+11.神三元 http://47.98.159.95/my_blog/
+12.染陌 https://github.com/a5006/learnVue
+13.瓶子君 https://github.com/sisterAn
+14.dataStructure http://www.conardli.top/docs/dataStructure/
+15.小火柴 https://www.xiaohuochai.cc/categories
+16.ljianshu https://github.com/ljianshu/Blog
+17.reduce-abuse https://github.com/kyleshevlin/reduce-abuse
+18.vue-analysis https://github.com/ustbhuangyi/vue-analysis
+19.YvetteLau https://github.com/YvetteLau/Blog
+20.33-js-concepts https://github.com/stephentian/33-js-concepts
 #### base review
 1. https://github.com/haizlin/fe-interview
 2. https://blog.poetries.top/FE-Interview-Questions/
@@ -34,4 +44,13 @@
 4. http://www.conardli.top/docs/JavaScript/
 5. https://muyiy.cn/
 6. https://github.com/YvetteLau/Blog
-
+7. https://github.com/yygmind/blog/issues/5
+8. https://lucifer.ren/fe-interview/#/
+9. https://github.com/azl397985856/leetcode
+10.https://github.com/axuebin/articles/issues/39
+11.https://labuladong.gitee.io/algo/
+12.https://www.yuque.com/wanggangfeng/bsp75t
+13.http://www.zhufengpeixun.cn/train/
+14.http://www.zhufengpeixun.com/jg-vue/
+15.https://github.com/qianguyihao/Web
+16.https://mp.weixin.qq.com/s/-FwA9aHMrE0BBPrpJMAsaw

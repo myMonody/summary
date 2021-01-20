@@ -23,20 +23,20 @@
 4. 数据结构与算法 https://www.cnblogs.com/zaking/category/1226506.html
 5. 现代javaScript教程 https://zh.javascript.info/
 6. 波神 https://segmentfault.com/a/1190000012646488
-7. react-hooks https://mp.weixin.qq.com/mp/homepage?__biz=MzI4NjE3MzQzNg==&hid=2&sn=75d2d72997241a607026560263275821&scene=18#wechat_redirect
+7. react-hooks https://mp.weixin.qq.com/mp/homepage?biz=MzI4NjE3MzQzNg==&hid=2&sn=75d2d72997241a607026560263275821&scene=18#wechat_redirect
 8. react-hooks原理 https://github.com/brickspert/blog/issues/26
 9. 砖家 https://github.com/brickspert
-10.30-seconds https://github.com/30-seconds
-11.神三元 http://47.98.159.95/my_blog/
-12.染陌 https://github.com/a5006/learnVue
-13.瓶子君 https://github.com/sisterAn
-14.dataStructure http://www.conardli.top/docs/dataStructure/
-15.小火柴 https://www.xiaohuochai.cc/categories
-16.ljianshu https://github.com/ljianshu/Blog
-17.reduce-abuse https://github.com/kyleshevlin/reduce-abuse
-18.vue-analysis https://github.com/ustbhuangyi/vue-analysis
-19.YvetteLau https://github.com/YvetteLau/Blog
-20.33-js-concepts https://github.com/stephentian/33-js-concepts
+10. 30-seconds https://github.com/30-seconds
+11. 神三元 http://47.98.159.95/my_blog/
+12. 染陌 https://github.com/a5006/learnVue
+13. 瓶子君 https://github.com/sisterAn
+14. dataStructure http://www.conardli.top/docs/dataStructure/
+15. 小火柴 https://www.xiaohuochai.cc/categories
+16. ljianshu https://github.com/ljianshu/Blog
+17. reduce-abuse https://github.com/kyleshevlin/reduce-abuse
+18. vue-analysis https://github.com/ustbhuangyi/vue-analysis
+19. YvetteLau https://github.com/YvetteLau/Blog
+20. 33-js-concepts https://github.com/stephentian/33-js-concepts
 #### base review
 1. https://github.com/haizlin/fe-interview
 2. https://blog.poetries.top/FE-Interview-Questions/
@@ -47,10 +47,10 @@
 7. https://github.com/yygmind/blog/issues/5
 8. https://lucifer.ren/fe-interview/#/
 9. https://github.com/azl397985856/leetcode
-10.https://github.com/axuebin/articles/issues/39
-11.https://labuladong.gitee.io/algo/
-12.https://www.yuque.com/wanggangfeng/bsp75t
-13.http://www.zhufengpeixun.cn/train/
-14.http://www.zhufengpeixun.com/jg-vue/
-15.https://github.com/qianguyihao/Web
-16.https://mp.weixin.qq.com/s/-FwA9aHMrE0BBPrpJMAsaw
+10. https://github.com/axuebin/articles/issues/39
+11. https://labuladong.gitee.io/algo/
+12. https://www.yuque.com/wanggangfeng/bsp75t
+13. http://www.zhufengpeixun.cn/train/
+14. http://www.zhufengpeixun.com/jg-vue/
+15. https://github.com/qianguyihao/Web
+16. https://mp.weixin.qq.com/s/-FwA9aHMrE0BBPrpJMAsaw

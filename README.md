@@ -37,6 +37,7 @@
 18. vue-analysis https://github.com/ustbhuangyi/vue-analysis
 19. YvetteLau https://github.com/YvetteLau/Blog
 20. 33-js-concepts https://github.com/stephentian/33-js-concepts
+21. webpack4 https://github.com/darrell0904/webpack-doc
 #### base review
 1. https://github.com/haizlin/fe-interview
 2. https://blog.poetries.top/FE-Interview-Questions/

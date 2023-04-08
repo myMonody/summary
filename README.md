@@ -51,12 +51,12 @@
 #### summary
 1. 珠峰架构师: <br/>
    http://www.zhufengpeixun.com/strong/index.html <br/>
-2. 珠峰架构课:<br/>
-   http://www.zhufengpeixun.cn/train/<br/>
-   http://www.zhufengpeixun.com/jg-vue/<br/>
-3. Vue源码解析:<br/>
-   https://juejin.cn/post/6935344605424517128<br/><br/>
-4. 面试大全<br/>
+2. 珠峰架构课: <br/>
+   http://www.zhufengpeixun.cn/train/ <br/>
+   http://www.zhufengpeixun.com/jg-vue/ <br/>
+3. Vue源码解析: <br/>
+   https://juejin.cn/post/6935344605424517128 <br/>
+4. 面试大全 <br/>
    https://interview.poetries.top/<br/>
 5. javaScript正则大全 <br/>
    https://juejin.im/post/5965943ff265da6c30653879#heading-0<br/>
@@ -82,7 +82,7 @@
    https://wintc.top/article/20<br/>
 13. 掘金收藏 【重要】<br/>
    https://juejin.cn/user/377887729388462/collections<br/>
-14.Vuex、Flux、Redux、Redux-saga、Dva、MobX<br/>
+14. Vuex、Flux、Redux、Redux-saga、Dva、MobX<br/>
    https://juejin.cn/post/6844903742672748558<br/>
 15. 前端登录<br/>
    https://mp.weixin.qq.com/s/bTX26jA3H0zociPDMupDj<br/>

@@ -1,5 +1,5 @@
 #### Webpack系列
-1.滴滴前端webpack系列 https://github.com/CommanderXL/Biu-blog
+1. 滴滴前端webpack系列 https://github.com/CommanderXL/Biu-blog
 
 
 #### Functional

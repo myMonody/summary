@@ -1,3 +1,7 @@
+#### Webpack系列
+1.滴滴前端webpack系列 https://github.com/CommanderXL/Biu-blog
+
+
 #### Functional
 
 1. 函数式编程mini书: https://jcouyang.gitbooks.io/functional-javascript/content/zh/index.html

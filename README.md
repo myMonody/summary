@@ -2,6 +2,8 @@
 1. 滴滴前端webpack系列 https://github.com/CommanderXL/Biu-blog
 2. webpack5实践 https://github.com/jiaozitang/webpack-demo/tree/release_v1
    （https://juejin.cn/column/6991642693705138207）
+3. webpack5-react-ts 工程化多页面应用打包配置模版
+   https://github.com/19Qingfeng/pages
 
 #### Functional
 

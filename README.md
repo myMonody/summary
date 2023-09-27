@@ -8,7 +8,7 @@
    https://tsejx.github.io/webpack-guidebook/basic/modularization
 5. 重要收集01 -- https://github.com/tsejx?tab=repositories
 6. 重要收集02 -- https://github.com/liangklfangl
-
+7. 手写webpack主流程源码以及webpack常见loader、plugin源码 https://github.com/lizuncong/mini-webpack
 
    
 #### Functional

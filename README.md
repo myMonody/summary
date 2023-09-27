@@ -6,7 +6,10 @@
    https://github.com/19Qingfeng/pages
 4. Webpack 知识图谱：模块化、基础概念、工作原理、实战应用
    https://tsejx.github.io/webpack-guidebook/basic/modularization
+5. 重要收集-- https://github.com/tsejx?tab=repositories
 
+
+   
 #### Functional
 
 1. 函数式编程mini书: https://jcouyang.gitbooks.io/functional-javascript/content/zh/index.html

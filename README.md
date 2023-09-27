@@ -4,6 +4,8 @@
    （https://juejin.cn/column/6991642693705138207）
 3. webpack5-react-ts 工程化多页面应用打包配置模版
    https://github.com/19Qingfeng/pages
+4. Webpack 知识图谱：模块化、基础概念、工作原理、实战应用
+   https://tsejx.github.io/webpack-guidebook/basic/modularization
 
 #### Functional
 

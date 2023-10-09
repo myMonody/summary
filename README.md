@@ -23,6 +23,11 @@
 10. webpack知识图谱 https://tsejx.github.io/webpack-guidebook/
 11. webpack-demo https://github.com/jiaozitang/webpack-demo
 12. Node + H5 实现大文件分片上传、断点续传 https://github.com/jiaozitang/fileUploadDemo
+13. react源码学习笔记 https://juejin.cn/column/7167771223886135304
+14. Vue2.x 源码世界 https://juejin.cn/column/7038843035072856071
+15. Vuejs设计与实现 https://juejin.cn/column/7083856166966689828
+16. React源码解析 https://juejin.cn/column/7224777406916968509
+17. Nestjs实战 https://juejin.cn/column/7142507898579451912
    
 #### Functional
 

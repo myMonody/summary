@@ -10,6 +10,19 @@
 6. 重要收集02 -- https://github.com/liangklfangl
 7. 手写webpack主流程源码以及webpack常见loader、plugin源码 https://github.com/lizuncong/mini-webpack
 
+#### 重要收集
+1. 数据结构与算法 https://tsejx.github.io/data-structure-and-algorithms-guidebook/
+2. Nodejs知识 https://tsejx.github.io/node-guidebook/
+3. JavaScript知识图谱 https://tsejx.github.io/javascript-guidebook/
+4. css知识图谱 https://tsejx.github.io/css-guidebook/
+5. React知识图谱 https://tsejx.github.io/react-guidebook/
+6. DevOps 知识图谱 https://tsejx.github.io/devops-guidebook/
+7. vue知识图谱 https://tsejx.github.io/vue-guidebook/
+8. TS知识图谱 https://tsejx.github.io/typescript-guidebook/
+9. 跨平台知识图谱 https://tsejx.github.io/cross-platform-guidebook/
+10. webpack知识图谱 https://tsejx.github.io/webpack-guidebook/
+11. webpack-demo https://github.com/jiaozitang/webpack-demo
+12. Node + H5 实现大文件分片上传、断点续传 https://github.com/jiaozitang/fileUploadDemo
    
 #### Functional
 
